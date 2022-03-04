@@ -10,7 +10,7 @@ Data can be found at http://bit.ly/w-data
 
 Used Language: Python 
 
-IDE: Google Colaboratory 
+IDE: Google Colab 
 
 Used libraries Numpy, Pandas, Matplotlib, Sklearn
 
