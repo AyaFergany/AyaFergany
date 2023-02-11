@@ -23,3 +23,5 @@ https://www.javatpoint.com/machine-learning-polynomial-regression
 
 https://www.analyticsvidhya.com/blog/2021/07/all-you-need-to-know-about-polynomial-regression/
 
+https://www.scribbr.com/statistics/coefficient-of-determination/
+
