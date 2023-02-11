@@ -14,3 +14,12 @@ IDE: Google Colab
 
 Used libraries Numpy, Pandas, Matplotlib, Sklearn
 
+
+
+# Sources 
+https://medium.com/analytics-vidhya/understanding-polynomial-regression-5ac25b970e18
+
+https://www.javatpoint.com/machine-learning-polynomial-regression
+
+https://www.analyticsvidhya.com/blog/2021/07/all-you-need-to-know-about-polynomial-regression/
+
